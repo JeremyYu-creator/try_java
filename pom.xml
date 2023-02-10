@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.example</groupId>
+    <artifactId>try_java</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>try_java</name>
+    <description>聚合应用</description>
+    <packaging>
+        pom
+    </packaging>
+    <modules>
+        <module>try_java-product</module>
+        <module>try_java-coupon</module>
+        <module>try_java-member</module>
+        <module>try_java-order</module>
+        <module>try_java-ware</module>
+    </modules>
+</project>

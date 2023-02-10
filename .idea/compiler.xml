@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="try_java-order" />
+        <module name="try_java-member" />
+        <module name="try_java-product" />
+        <module name="try_java-coupon" />
+        <module name="try_java-ware" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="project" target="1.5" />
+      <module name="try_java-coupon" target="17" />
+      <module name="try_java-member" target="17" />
+      <module name="try_java-order" target="17" />
+      <module name="try_java-product" target="17" />
+      <module name="try_java-ware" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="try_java-coupon" options="-parameters" />
+      <module name="try_java-member" options="-parameters" />
+      <module name="try_java-order" options="-parameters" />
+      <module name="try_java-product" options="-parameters" />
+      <module name="try_java-ware" options="-parameters" />
+    </option>
+  </component>
+</project>

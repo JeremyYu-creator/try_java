@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_java-coupon/try_java-coupon.iml" filepath="$PROJECT_DIR$/try_java-coupon/try_java-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_java-member/try_java-member.iml" filepath="$PROJECT_DIR$/try_java-member/try_java-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_java-order/try_java-order.iml" filepath="$PROJECT_DIR$/try_java-order/try_java-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_java-product/try_java-product.iml" filepath="$PROJECT_DIR$/try_java-product/try_java-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_java-ware/try_java-ware.iml" filepath="$PROJECT_DIR$/try_java-ware/try_java-ware.iml" />
     </modules>
   </component>
 </project>
